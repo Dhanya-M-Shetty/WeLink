@@ -1,2 +1,5 @@
 # WeLink
-WELINK apps are web based applications with enhanced software and hardware security feature. Security fencing that strictly controls device access. Data shields that ensure enterprise data flows within defined boundaries. Protected messaging and file transmission. Call encryption that ensures each call is encrypted
+ Developed and executed automated test scripts using Selenium WebDriver and Java to validate the functionality of an ecommerce website.
+ Implemented Page Object Model (POM) for a modular and maintainable automation framework.
+ Utilized TestNG for test case management and execution, ensuring comprehensive test coverage.
+ Integrated Jenkins for automated test execution and continuous integration, enhancing testing process efficiency.
